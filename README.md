@@ -13,7 +13,7 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deniscley&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-## Tecnologias que eu uso no meu dia.
+## Algumas das tecnologias que eu uso no meu dia a dia.
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
