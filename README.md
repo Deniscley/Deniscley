@@ -29,6 +29,6 @@
 
 Apaixonado por tecnologias e conhecimento através do estudo e aplicação real.
 
-![Snake Animation](https://github.com/Deniscley/Deniscley/blob/output/github-contribution-grid-snake.svg)
+[![Snake Animation]](https://github.com/Deniscley/Deniscley/blob/output/github-contribution-grid-snake.svg)
 
 
