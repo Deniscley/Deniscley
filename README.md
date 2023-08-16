@@ -15,10 +15,6 @@
 </p>
 
 
-<br>
-<br>
-
-
 ## 📊 Meu Status do Github
 
 <div>
