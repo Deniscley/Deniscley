@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Deniscley Marfran. ✋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deniscley&color=yellow" alt="Profile views" /> </p>
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_IEl2e4KgjZiAUW02JFepQ)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DeniscleyMAF)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deniscleymarfran/)
@@ -41,11 +43,6 @@
   
   Apaixonado por tecnologias e conhecimento através do estudo e aplicação real.
 </div>
-<br/>
-<br/>
-<br/>
-
-![snake animation](https://github.com/Deniscley/Deniscley/blob/output/github-contribution-grid-snake.svg)
 
 
 
