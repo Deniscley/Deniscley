@@ -7,6 +7,20 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deniscleymarfran/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/deniscley.marfran)
 
+
+<p align="center">
+    <a href="https://github.com/Deniscley/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Deniscley's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Deniscley&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
+<br>
+<br>
+
+
+## 📊 Meu Status do Github
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Deniscley&theme=dark" />
