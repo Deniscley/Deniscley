@@ -7,7 +7,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deniscleymarfran/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/deniscley.marfran)
 
-
 ## 📊 Meus Status do Github
 
 <p align="center">
@@ -24,7 +23,6 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deniscley&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
 </div>
-
 
 <div  align="center">
   <div style="display: inline_block"><br/>
@@ -48,10 +46,10 @@
       <a href = "https://www.linkedin.com/in/deniscleymarfran/">
       <img width="25" src="linkedin.svg">
   </a>
+  
+  <br/>
+  <br/>
   <br/>
   
   Apaixonado por tecnologias e conhecimento através do estudo e aplicação real.
 </div>
-
-
-
