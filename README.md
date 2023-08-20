@@ -51,5 +51,5 @@
   <br/>
   <br/>
   
-  Apaixonado por tecnologias e conhecimento através do estudo e aplicação real.
+  Apaixonado por tecnologias e obtenção de conhecimento.
 </div>
