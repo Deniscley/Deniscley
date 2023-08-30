@@ -15,7 +15,7 @@
     </a>
 </p>
 
-<div>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Deniscley&theme=dark" />
   </a>
@@ -27,7 +27,7 @@
 <div  align="center">
   <div style="display: inline_block"><br/>
     <h1 align="left">⚒️ Algumas das tecnologias que uso no dia a dia.</h1>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="code.gif" />
     <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
@@ -41,10 +41,10 @@
 
   <h1 align="center">Contato</h1>
   <a href = "mailto: deniscleymaf@gmail.com">
-    <img width="30" src="gmail.svg">
+    <img width="30" src="gmail.svg" />
   </a>
       <a href = "https://www.linkedin.com/in/deniscleymarfran/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="linkedin.svg" />
   </a>
   
   <br/>
